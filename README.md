@@ -28,7 +28,7 @@
   <img align="center" alt="Lincoln-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/>
   <img align="center" alt="Lincoln-SocketIO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg"/>   
   
-  <img align="right" alt="Caina-Rafael" height="140" width="150" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif">
+  <img align="right" alt="Lincoln-Gif" height="140" width="150" src="https://media.giphy.com/media/NHUONhmbo448/giphy.gif">
 </div>
   
 ##
