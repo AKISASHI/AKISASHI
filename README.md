@@ -1,7 +1,7 @@
 ### Olá, eu sou o Lincoln Santana, e seja bem-vindo ao meu GitHub!
 
-- 🔭 Trabalho com criação de conteúdo para programadores no YouTube 🎬
-- 👨‍🏫 Ensino: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.JS e muito mais...
+- 🔭 Desenvolvedor Front-End Junior 
+- 👨‍🏫 Habilidades principais: HTML, CSS, JavaScript, TypeScript, React, Bootstrap, Node.JS e muito mais...
 - ⚡ Um fato pessoal: Eu amo séries, principalmente: HIMYM e Friends 💖
 <br>
 
